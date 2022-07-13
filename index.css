@@ -1,0 +1,88 @@
+#body{
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+
+
+}
+#div1{
+    background-color:rgba(226, 80, 80, 0.534);
+    font-size: large;
+}
+#div2{
+    background-color:rgba(59, 78, 112, 0.534);
+    align-items: left;
+    padding-bottom: 0px;
+}
+#div3{
+    background-color:rgba(41, 43, 45, 0.421);
+    align-items: left;
+    padding-top: 10px;
+}
+#div4{
+    background-color:rgba(42, 137, 40, 0.537);
+    align-items: center;
+    padding-top: 10px;
+}
+#blink {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#btn1{
+    color: rgb(0, 0, 0);
+    background-color:rgb(199, 192, 179);
+    font-size:xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+#btn2{
+    color: black;
+    background-color:rgba(83, 35, 187, 0.414);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#d{
+    padding-top: 0px;
+    padding-bottom: 9px;
+}
+#logo-name{
+    font-size: 70;
+    color: silver;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
+
+#logo{
+    align-items:center;
+    height: 150;
+    width: 150;
+}
+#image{
+    align-items:center;
+    height: 350;
+    width: 350;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#btab{
+    border: 00ch;
+}
+#wt{
+    text-align:justify;
+    color:rgb(7, 4, 0);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+#sbf{
+    text-align: center;
+    font-size:55px;
+    color: rgb(46, 30, 67);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#lal{
+    font-size:40px;
+    text-align: center;
+    color: aliceblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
